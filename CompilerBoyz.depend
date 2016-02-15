@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1455151111 source:d:\projects\compilerboyz\compilerboyz\interpreter.cpp
+
+1455166645 source:d:\projects\compilerboyz\compilerboyz\lexer.cpp
+	"Lexer.h"
+
+1455158591 d:\projects\compilerboyz\compilerboyz\lexer.h
+	"Token.h"
+
+1455154335 d:\projects\compilerboyz\compilerboyz\token.h
+	<iostream>
+	<string>
+
+1455218959 source:d:\projects\compilerboyz\compilerboyz\parser.cpp
+	"Parser.h"
+	<vector>
+	<algorithm>
+
+1455218455 d:\projects\compilerboyz\compilerboyz\parser.h
+	"Lexer.h"
+
+1455153329 d:\projects\compilerboyz\compilerboyz\lexer.cpp
+	"Lexer.h"
+
+1455154370 source:d:\projects\compilerboyz\compilerboyz\compiler.cpp
+	"Parser.h"
+
+1455154141 d:\projects\compilerboyz\compilerboyz\parser.cpp
+	"Parser.h"
+
